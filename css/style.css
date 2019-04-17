@@ -1227,7 +1227,7 @@
     #team {
         background-attachment: scroll,                        fixed;
         
-        background-image: url("../images/tenor.gif"), url("../images/2.png");
+        background-image: url("../images/tenor1.gif"), url("../images/2.png");
         background-position: top left,                    center center;
         background-repeat: repeat,                        no-repeat;
         background-size: auto,                        cover;
